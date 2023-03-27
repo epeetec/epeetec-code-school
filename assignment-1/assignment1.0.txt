@@ -1,0 +1,7 @@
+Below is a link to a CV UI design from figma, 
+Follow the link and build the html layout of the design
+dont bother about the second section of the Design
+just work on the first section.
+
+Figma Design link
+https://www.figma.com/file/7ofaYKgCHO3WkcVNbOxUdx/CV-%2F-Resume-(Community)?node-id=0-1&t=PodUHNSXCGo5kvVG-0

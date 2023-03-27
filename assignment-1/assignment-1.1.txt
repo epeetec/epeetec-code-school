@@ -1,0 +1,6 @@
+Below is a link to a CV UI design from figma, 
+Follow the link and build the whole design using html and css
+dont bother about the second section of the Design
+just work on the first section.
+
+https://www.figma.com/file/X7lrXEbKFBBz5Zf0gHWAzV/Template-Resume-or-CV-(Community)?node-id=0-1&t=q5cCZw2ufQwYYafN-0
